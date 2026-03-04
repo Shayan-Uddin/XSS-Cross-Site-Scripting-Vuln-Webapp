@@ -1,0 +1,4 @@
+[2026-03-02 14:06:15] Test User: &lt;script&gt;alert(&quot;XSS&quot;)&lt;/script&gt;
+[2026-03-04 13:06:32] ?name=&lt;script&gt;alert(1)&lt;/script&gt;: ?name=&lt;script&gt;alert(1)&lt;/script&gt;
+[2026-03-04 13:06:42] ?name=&lt;script&gt;alert(1)&lt;/script&gt;: ?name=&lt;script&gt;alert(1)&lt;/script&gt;
+[2026-03-04 14:18:50] Test User: &lt;script&gt;alert(&quot;XSS&quot;)&lt;/script&gt;
